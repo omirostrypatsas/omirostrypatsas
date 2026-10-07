@@ -41,7 +41,7 @@
 ## 🔗 Feel free to reach out and say hi!
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/omiros-trypatsas/)">
+  <a href="https://www.linkedin.com/in/omiros-trypatsas/" target="_blank">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2b5c10de-bbb2-47ba-a664-0ae992b33ec3" />
   </a>
   <a href="mailto:omiros.trypatsas@gmail.com"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/15dfcdbc-f682-4768-9e7c-dd465a4be960" />
