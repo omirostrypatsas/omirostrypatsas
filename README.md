@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Omiros👋</h1>
 
-## 👤 Me
+## 👤 About me
 
 - 🗺️ **Location:** Cyprus
 - 🎓 **Education:** BSc Mathematics at University of Bristol and MSc Computer Science at UCL
@@ -46,18 +46,3 @@
   </a>
   <a href="mailto:omiros.trypatsas@gmail.com"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/15dfcdbc-f682-4768-9e7c-dd465a4be960" />
 </p>
-
-<!--
-**omirostrypatsas/omirostrypatsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
